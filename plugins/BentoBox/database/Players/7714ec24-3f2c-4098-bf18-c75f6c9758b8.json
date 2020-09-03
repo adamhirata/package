@@ -1,0 +1,24 @@
+{
+  "homeLocations": [
+    [
+      [
+        "bskyblock_world",
+        1.5,
+        125.0,
+        802.5,
+        45.0,
+        30.0
+      ],
+      1
+    ]
+  ],
+  "uniqueId": "7714ec24-3f2c-4098-bf18-c75f6c9758b8",
+  "playerName": "xiAir",
+  "resets": {},
+  "locale": "",
+  "deaths": {
+    "bskyblock_world": 0
+  },
+  "pendingKicks": [],
+  "flagsDisplayMode": "BASIC"
+}

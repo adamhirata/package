@@ -1,0 +1,29 @@
+lastAccountName: 9H9T9O
+timestamps:
+  login: 1586421181586
+  lastteleport: 1586421512925
+  logout: 1586421514626
+ipAddress: 172.91.108.236
+lastlocation:
+  world: world
+  x: 365.12493677907247
+  y: 64.0
+  z: 70.87800125543598
+  yaw: 103.56863
+  pitch: 69.90259
+logoutlocation:
+  world: world
+  x: 368.5
+  y: 90.0
+  z: 97.5
+  yaw: 175.01497
+  pitch: 27.358406
+homes:
+  home:
+    world: world
+    x: 368.35114489107036
+    y: 90.0
+    z: 97.41712161135933
+    yaw: 175.1399
+    pitch: 27.358406
+money: '10000'

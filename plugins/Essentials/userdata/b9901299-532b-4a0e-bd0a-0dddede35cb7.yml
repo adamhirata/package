@@ -1,0 +1,20 @@
+lastAccountName: boiluna
+timestamps:
+  login: 1585984677836
+  logout: 1585988141492
+ipAddress: 75.82.195.62
+lastlocation:
+  world: world
+  x: -433.3437319453231
+  y: 82.0
+  z: 781.3079585153899
+  yaw: 198.24219
+  pitch: -18.89993
+logoutlocation:
+  world: world
+  x: 274.96784019736015
+  y: 71.0
+  z: 108.87607999725097
+  yaw: 243.93536
+  pitch: -4.6500874
+money: '10000'

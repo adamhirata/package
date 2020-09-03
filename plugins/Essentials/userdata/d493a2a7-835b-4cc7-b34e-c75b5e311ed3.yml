@@ -1,0 +1,21 @@
+lastAccountName: ashiinoki24
+timestamps:
+  login: 1586410492913
+  logout: 1586420174229
+  lastteleport: 1585989198107
+ipAddress: 72.234.219.32
+logoutlocation:
+  world: world
+  x: 284.69999998807907
+  y: 65.0
+  z: 195.38870863029442
+  yaw: 274.52173
+  pitch: 21.749744
+lastlocation:
+  world: world
+  x: 825.7974853122186
+  y: 4.0
+  z: 336.6162953298814
+  yaw: -121.68942
+  pitch: 7.9501433
+money: '10000.009'

@@ -1,0 +1,20 @@
+lastAccountName: xiAir
+timestamps:
+  login: 1586421088516
+  lastteleport: 1586421704704
+  logout: 1586421927573
+ipAddress: 76.175.64.67
+lastlocation:
+  world: bskyblock_world
+  x: 1.6891073123924947
+  y: 125.0
+  z: 802.0945177214135
+  yaw: 62.096954
+  pitch: 36.300037
+logoutlocation:
+  world: world
+  x: 347.0531184501415
+  y: 63.0
+  z: 87.93910807578166
+  yaw: -129.71577
+  pitch: 24.750715

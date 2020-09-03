@@ -1,0 +1,24 @@
+{
+  "homeLocations": [
+    [
+      [
+        "bskyblock_world",
+        0.5,
+        80.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      1
+    ]
+  ],
+  "uniqueId": "925a16de-febf-463d-a68c-e50fd6163c39",
+  "playerName": "2atomic1",
+  "resets": {},
+  "locale": "",
+  "deaths": {
+    "bskyblock_world": 1
+  },
+  "pendingKicks": [],
+  "flagsDisplayMode": "EXPERT"
+}

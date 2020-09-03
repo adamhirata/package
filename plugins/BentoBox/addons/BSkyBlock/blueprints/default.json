@@ -1,0 +1,13 @@
+{
+  "uniqueId": "default",
+  "icon": "GRASS_BLOCK",
+  "displayName": "&eThe Original SkyBlock",
+  "description": [
+    "Click this to start a new SkyBlock"
+  ],
+  "requirePermission": false,
+  "blueprints": {
+    "NORMAL": "island"
+  },
+  "slot": 0
+}

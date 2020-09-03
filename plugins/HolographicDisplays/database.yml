@@ -1,0 +1,12 @@
+shop:
+  location: bskyblock_world, 1.065, 82.200, -17.057
+  lines:
+  - '&cWelcome to spawn shop'
+  - '&7Right Click to &abuy'
+  - '&7Left Click to &asell'
+welcome:
+  location: bskyblock_world, 23.454, 82.200, 1.023
+  lines:
+  - '&aWelcome to the server!'
+  - '&7Do /island create'
+  - '&7to get started'

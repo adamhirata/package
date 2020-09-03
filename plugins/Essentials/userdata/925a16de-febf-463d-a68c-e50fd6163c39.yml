@@ -1,0 +1,25 @@
+lastAccountName: 2atomic1
+timestamps:
+  login: 1599082222911
+  logout: 1599082265069
+  lastteleport: 1586421412660
+  kits:
+    tools: 1586393520619
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: bskyblock_world
+  x: 6.432567910032554
+  y: 92.58865025381645
+  z: 5.722036020125215
+  yaw: -195.39648
+  pitch: 9.705235
+lastlocation:
+  world: bskyblock_world
+  x: 7.806837382989299
+  y: 108.99089830037282
+  z: -24.69178623163939
+  yaw: -342.47974
+  pitch: 22.500784
+afk: false
+money: '32800.991'
+nickname: 2atomic1
